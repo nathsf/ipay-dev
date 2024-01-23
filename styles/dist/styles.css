@@ -122,6 +122,14 @@ p, label, a, select, input, span, button, small {
     transform: translatex(-1000%);
   }
 }
+.borders-rounded {
+  border-radius: 20px !important;
+}
+
+.maxh-370 {
+  max-height: 360px;
+}
+
 .btn-primary {
   border-radius: 30px;
   padding: 0.5rem 2rem;
